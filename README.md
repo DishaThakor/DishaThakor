@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DishaThakor
-- 👀 I’m interested in Software Developer's position as an Intern.
+- 👀 I’m interested in Data Scientist position as an Intern.
 - 🌱 I’m currently learning Javascript and know other Languages also.
 - 📫 Linkedin Id : https://www.linkedin.com/in/disha-thakor-85a8a724b/
 
